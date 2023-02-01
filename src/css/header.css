@@ -1,0 +1,8 @@
+.bg-header {
+    background: url("../Images/leadspace.jpg") no-repeat center center fixed;
+    opacity: 0.8;    
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+}

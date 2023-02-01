@@ -1,0 +1,32 @@
+.buttonSubmit {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #fff;
+    background: #0D0D0D;
+    border: 1px solid #FFF;
+    cursor: pointer;
+    height: auto;
+    display: inline-block;
+    border-radius: 0px;
+    margin-left: 26%;
+}
+
+.buttonSubmit:hover {
+    color: #0D0D0D;
+    background: #fff;
+}
+
+.loader {
+    margin-left: 30px;
+}
+
+
+.message-success {
+    
+    background: #0F0F0F;
+    padding: 24px 24px;
+    margin-bottom: 36px;
+    width: 65%;
+    margin-left: 26%;
+    color: #49BC73;
+}

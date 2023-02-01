@@ -1,0 +1,30 @@
+
+
+.float{
+	position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 50px;
+    /* text-align: center; */
+    font-size: 40px;
+    /* box-shadow: 2px 2px 2px #999; */
+    z-index: 9999999999;
+}
+
+.float:hover{
+	background-color: #49bc73;
+	width: 65px;
+    height: 65px;
+	font-size: 45px;
+}
+
+.wpp-btn{
+	color: #FFF;
+}
